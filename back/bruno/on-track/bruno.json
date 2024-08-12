@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "on-track",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
