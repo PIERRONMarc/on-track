@@ -9,6 +9,7 @@
         "php": ">=8.3.9",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "edwin-luijten/oauth2-strava": "^1.4",
         "kerox/oauth2-spotify": "^2.0",
         "knpuniversity/oauth2-client-bundle": "^2.18",
         "runtime/frankenphp-symfony": "^0.2.0",

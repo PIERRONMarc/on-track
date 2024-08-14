@@ -6,3 +6,9 @@ knpu_oauth2_client:
             client_secret: '%env(OAUTH_SPOTIFY_SECRET)%'
             redirect_route: spotify_callback
             redirect_params: {}
+        strava:
+            type: strava
+            client_id: '%env(OAUTH_STRAVA_ID)%'
+            client_secret: '%env(OAUTH_STRAVA_SECRET)%'
+            redirect_route: strava_callback
+            redirect_params: { }
